@@ -1,0 +1,6 @@
+::1	nekiuser98 added product with id: 9 to wishlist.	24.03.2020 17:14:00
+::1	nekiuser98 added product with id: 10 to wishlist.	24.03.2020 17:14:15
+::1	nekiuser98 added product with id: 1 to wishlist.	24.03.2020 17:21:07
+::1	nekiuser98 added product with id: 14 to wishlist.	24.03.2020 17:26:30
+::1	nekiuser98 added product with id: 8 to wishlist.	24.03.2020 17:56:24
+::1	nekiuser98 added product with id: 10 to wishlist.	24.03.2020 17:57:10
